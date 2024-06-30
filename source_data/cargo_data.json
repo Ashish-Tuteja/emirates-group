@@ -1,0 +1,22 @@
+[
+    {"WaybillNumber": 123456, "EventType": "Air Waybill", "EventDetails": {"DetailID": 2345, "DetailStatus": "Valid", "DetailTimestamp": "2023-06-01 00:00:00"}},
+    {"WaybillNumber": 123457, "EventType": "Dynamic Pricing", "EventDetails": {"DetailID": 3456, "DetailStatus": "Invalid", "DetailTimestamp": "2023-06-02 00:00:00"}},
+    {"WaybillNumber": 123458, "EventType": "Commodity Code", "EventDetails": {"DetailID": 4567, "DetailStatus": "Valid", "DetailTimestamp": "2023-06-03 00:00:00"}},
+    {"WaybillNumber": 123459, "EventType": "Goods Inspection", "EventDetails": {"DetailID": 5678, "DetailStatus": "Invalid", "DetailTimestamp": "2023-06-04 00:00:00"}},
+    {"WaybillNumber": 123460, "EventType": "Security Compliance", "EventDetails": {"DetailID": 6789, "DetailStatus": "Valid", "DetailTimestamp": "2023-06-05 00:00:00"}},
+    {"WaybillNumber": 123461, "EventType": "Air Waybill", "EventDetails": {"DetailID": 7890, "DetailStatus": "Invalid", "DetailTimestamp": "2023-06-06 00:00:00"}},
+    {"WaybillNumber": 123462, "EventType": "Dynamic Pricing", "EventDetails": {"DetailID": 8901, "DetailStatus": "Valid", "DetailTimestamp": "2023-06-07 00:00:00"}},
+    {"WaybillNumber": 123463, "EventType": "Commodity Code", "EventDetails": {"DetailID": 9012, "DetailStatus": "Invalid", "DetailTimestamp": "2023-06-08 00:00:00"}},
+    {"WaybillNumber": 123464, "EventType": "Goods Inspection", "EventDetails": {"DetailID": 1234, "DetailStatus": "Valid", "DetailTimestamp": "2023-06-09 00:00:00"}},
+    {"WaybillNumber": 123465, "EventType": "Security Compliance", "EventDetails": {"DetailID": 2345, "DetailStatus": "Invalid", "DetailTimestamp": "2023-06-10 00:00:00"}},
+    {"WaybillNumber": 123466, "EventType": "Air Waybill", "EventDetails": {"DetailID": 3456, "DetailStatus": "Valid", "DetailTimestamp": "2023-06-11 00:00:00"}},
+    {"WaybillNumber": 123467, "EventType": "Dynamic Pricing", "EventDetails": {"DetailID": 4567, "DetailStatus": "Invalid", "DetailTimestamp": "2023-06-12 00:00:00"}},
+    {"WaybillNumber": 123468, "EventType": "Commodity Code", "EventDetails": {"DetailID": 5678, "DetailStatus": "Valid", "DetailTimestamp": "2023-06-13 00:00:00"}},
+    {"WaybillNumber": 123469, "EventType": "Goods Inspection", "EventDetails": {"DetailID": 6789, "DetailStatus": "Invalid", "DetailTimestamp": "2023-06-14 00:00:00"}},
+    {"WaybillNumber": 123470, "EventType": "Security Compliance", "EventDetails": {"DetailID": 7890, "DetailStatus": "Valid", "DetailTimestamp": "2023-06-15 00:00:00"}},
+    {"WaybillNumber": 123471, "EventType": "Air Waybill", "EventDetails": {"DetailID": 8901, "DetailStatus": "Invalid", "DetailTimestamp": "2023-06-16 00:00:00"}},
+    {"WaybillNumber": 123472, "EventType": "Dynamic Pricing", "EventDetails": {"DetailID": 9012, "DetailStatus": "Valid", "DetailTimestamp": "2023-06-17 00:00:00"}},
+    {"WaybillNumber": 123473, "EventType": "Commodity Code", "EventDetails": {"DetailID": 1234, "DetailStatus": "Invalid", "DetailTimestamp": "2023-06-18 00:00:00"}},
+    {"WaybillNumber": 123474, "EventType": "Goods Inspection", "EventDetails": {"DetailID": 2345, "DetailStatus": "Valid", "DetailTimestamp": "2023-06-19 00:00:00"}},
+    {"WaybillNumber": 123475, "EventType": "Security Compliance", "EventDetails": {"DetailID": 3456, "DetailStatus": "Invalid", "DetailTimestamp": "2023-06-20 00:00:00"}}
+]
